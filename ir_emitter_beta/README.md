@@ -1,6 +1,6 @@
 # Ero IR Emitter
 
-##Overview
+## Overview
 
 This beta test is the first Ero Bluetooth Mesh Application. While it is a IR emitter, it's primary purpose is to test the entire entire Ero Stack from embedded systems to network to cloud.
 
